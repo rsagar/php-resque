@@ -1,6 +1,9 @@
 php-resque: PHP Resque Worker (and Enqueue) [![Build Status](https://secure.travis-ci.org/chrisboulton/php-resque.png)](http://travis-ci.org/chrisboulton/php-resque)
 ===========================================
 
+This is a forked from https://github.com/chrisboulton/php-resque, version 1.2 to add support for removePrefix. 
+https://github.com/rsagar/php-resque package is not maintained regularly
+
 Resque is a Redis-backed library for creating background jobs, placing
 those jobs on multiple queues, and processing them later.
 
